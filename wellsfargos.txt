@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ffffchanged
 this is wells fargo changed..chdslksdhanged..changed 1
 rebase test:
 test merge in ui
 changing trainig
+=======
+changing in trainng....this is wells fargo changed..chdslksdhanged..changed 1
+>>>>>>> training
