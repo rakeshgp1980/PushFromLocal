@@ -1,3 +1,2 @@
-echo "this is batch file"
-exec notepad.exe
+echo "this is batch file"tasklist
 echo "notepad called"
